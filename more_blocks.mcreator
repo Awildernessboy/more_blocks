@@ -1,0 +1,48 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "MoreBlockstab",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "more_blockstab"
+    },
+    {
+      "name": "IronCube",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_cube"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.more_blocks.iron_cube": "Iron Cube",
+      "itemGroup.tabmore_blockstab": "More Blocks"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "more_blocks",
+    "modName": "more_blocks",
+    "version": "1.0.0",
+    "author": "Aidan, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.moreblocks",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000431617
+}
